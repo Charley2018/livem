@@ -16,4 +16,5 @@ package cn.lm.dao;
  */
 
 public class UsersDao {
+  private String username;
 }
